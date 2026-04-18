@@ -1,0 +1,21 @@
+# Archivos compilados de Java
+*.class
+
+# Carpetas de construcción
+target/
+
+# Archivos de configuración de IDE
+*.iml
+.idea/
+.vscode/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Dependencias descargadas
+.mvn/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
